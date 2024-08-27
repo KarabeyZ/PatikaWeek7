@@ -1,0 +1,14 @@
+C:\Users\karab\source\repos\PratikLinq\PratikLinq\bin\Debug\net8.0\PratikLinq.exe
+C:\Users\karab\source\repos\PratikLinq\PratikLinq\bin\Debug\net8.0\PratikLinq.deps.json
+C:\Users\karab\source\repos\PratikLinq\PratikLinq\bin\Debug\net8.0\PratikLinq.runtimeconfig.json
+C:\Users\karab\source\repos\PratikLinq\PratikLinq\bin\Debug\net8.0\PratikLinq.dll
+C:\Users\karab\source\repos\PratikLinq\PratikLinq\bin\Debug\net8.0\PratikLinq.pdb
+C:\Users\karab\source\repos\PratikLinq\PratikLinq\obj\Debug\net8.0\PratikLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karab\source\repos\PratikLinq\PratikLinq\obj\Debug\net8.0\PratikLinq.AssemblyInfoInputs.cache
+C:\Users\karab\source\repos\PratikLinq\PratikLinq\obj\Debug\net8.0\PratikLinq.AssemblyInfo.cs
+C:\Users\karab\source\repos\PratikLinq\PratikLinq\obj\Debug\net8.0\PratikLinq.csproj.CoreCompileInputs.cache
+C:\Users\karab\source\repos\PratikLinq\PratikLinq\obj\Debug\net8.0\PratikLinq.dll
+C:\Users\karab\source\repos\PratikLinq\PratikLinq\obj\Debug\net8.0\refint\PratikLinq.dll
+C:\Users\karab\source\repos\PratikLinq\PratikLinq\obj\Debug\net8.0\PratikLinq.pdb
+C:\Users\karab\source\repos\PratikLinq\PratikLinq\obj\Debug\net8.0\PratikLinq.genruntimeconfig.cache
+C:\Users\karab\source\repos\PratikLinq\PratikLinq\obj\Debug\net8.0\ref\PratikLinq.dll
