@@ -1,0 +1,14 @@
+C:\Users\karab\source\repos\PratikPatikafy\PratikPatikafy\bin\Debug\net8.0\PratikPatikafy.exe
+C:\Users\karab\source\repos\PratikPatikafy\PratikPatikafy\bin\Debug\net8.0\PratikPatikafy.deps.json
+C:\Users\karab\source\repos\PratikPatikafy\PratikPatikafy\bin\Debug\net8.0\PratikPatikafy.runtimeconfig.json
+C:\Users\karab\source\repos\PratikPatikafy\PratikPatikafy\bin\Debug\net8.0\PratikPatikafy.dll
+C:\Users\karab\source\repos\PratikPatikafy\PratikPatikafy\bin\Debug\net8.0\PratikPatikafy.pdb
+C:\Users\karab\source\repos\PratikPatikafy\PratikPatikafy\obj\Debug\net8.0\PratikPatikafy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karab\source\repos\PratikPatikafy\PratikPatikafy\obj\Debug\net8.0\PratikPatikafy.AssemblyInfoInputs.cache
+C:\Users\karab\source\repos\PratikPatikafy\PratikPatikafy\obj\Debug\net8.0\PratikPatikafy.AssemblyInfo.cs
+C:\Users\karab\source\repos\PratikPatikafy\PratikPatikafy\obj\Debug\net8.0\PratikPatikafy.csproj.CoreCompileInputs.cache
+C:\Users\karab\source\repos\PratikPatikafy\PratikPatikafy\obj\Debug\net8.0\PratikPatikafy.dll
+C:\Users\karab\source\repos\PratikPatikafy\PratikPatikafy\obj\Debug\net8.0\refint\PratikPatikafy.dll
+C:\Users\karab\source\repos\PratikPatikafy\PratikPatikafy\obj\Debug\net8.0\PratikPatikafy.pdb
+C:\Users\karab\source\repos\PratikPatikafy\PratikPatikafy\obj\Debug\net8.0\PratikPatikafy.genruntimeconfig.cache
+C:\Users\karab\source\repos\PratikPatikafy\PratikPatikafy\obj\Debug\net8.0\ref\PratikPatikafy.dll
