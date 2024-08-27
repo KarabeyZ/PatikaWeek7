@@ -1,0 +1,14 @@
+C:\Users\karab\source\repos\PratikPatikaflixDizilerPlatformu\PratikPatikaflixDizilerPlatformu\bin\Debug\net8.0\PratikPatikaflixDizilerPlatformu.exe
+C:\Users\karab\source\repos\PratikPatikaflixDizilerPlatformu\PratikPatikaflixDizilerPlatformu\bin\Debug\net8.0\PratikPatikaflixDizilerPlatformu.deps.json
+C:\Users\karab\source\repos\PratikPatikaflixDizilerPlatformu\PratikPatikaflixDizilerPlatformu\bin\Debug\net8.0\PratikPatikaflixDizilerPlatformu.runtimeconfig.json
+C:\Users\karab\source\repos\PratikPatikaflixDizilerPlatformu\PratikPatikaflixDizilerPlatformu\bin\Debug\net8.0\PratikPatikaflixDizilerPlatformu.dll
+C:\Users\karab\source\repos\PratikPatikaflixDizilerPlatformu\PratikPatikaflixDizilerPlatformu\bin\Debug\net8.0\PratikPatikaflixDizilerPlatformu.pdb
+C:\Users\karab\source\repos\PratikPatikaflixDizilerPlatformu\PratikPatikaflixDizilerPlatformu\obj\Debug\net8.0\PratikPatikaflixDizilerPlatformu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karab\source\repos\PratikPatikaflixDizilerPlatformu\PratikPatikaflixDizilerPlatformu\obj\Debug\net8.0\PratikPatikaflixDizilerPlatformu.AssemblyInfoInputs.cache
+C:\Users\karab\source\repos\PratikPatikaflixDizilerPlatformu\PratikPatikaflixDizilerPlatformu\obj\Debug\net8.0\PratikPatikaflixDizilerPlatformu.AssemblyInfo.cs
+C:\Users\karab\source\repos\PratikPatikaflixDizilerPlatformu\PratikPatikaflixDizilerPlatformu\obj\Debug\net8.0\PratikPatikaflixDizilerPlatformu.csproj.CoreCompileInputs.cache
+C:\Users\karab\source\repos\PratikPatikaflixDizilerPlatformu\PratikPatikaflixDizilerPlatformu\obj\Debug\net8.0\PratikPatikaflixDizilerPlatformu.dll
+C:\Users\karab\source\repos\PratikPatikaflixDizilerPlatformu\PratikPatikaflixDizilerPlatformu\obj\Debug\net8.0\refint\PratikPatikaflixDizilerPlatformu.dll
+C:\Users\karab\source\repos\PratikPatikaflixDizilerPlatformu\PratikPatikaflixDizilerPlatformu\obj\Debug\net8.0\PratikPatikaflixDizilerPlatformu.pdb
+C:\Users\karab\source\repos\PratikPatikaflixDizilerPlatformu\PratikPatikaflixDizilerPlatformu\obj\Debug\net8.0\PratikPatikaflixDizilerPlatformu.genruntimeconfig.cache
+C:\Users\karab\source\repos\PratikPatikaflixDizilerPlatformu\PratikPatikaflixDizilerPlatformu\obj\Debug\net8.0\ref\PratikPatikaflixDizilerPlatformu.dll
