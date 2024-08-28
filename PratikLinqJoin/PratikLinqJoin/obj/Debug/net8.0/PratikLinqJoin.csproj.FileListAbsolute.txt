@@ -1,0 +1,14 @@
+C:\Users\karab\source\repos\PratikLinqJoin\PratikLinqJoin\bin\Debug\net8.0\PratikLinqJoin.exe
+C:\Users\karab\source\repos\PratikLinqJoin\PratikLinqJoin\bin\Debug\net8.0\PratikLinqJoin.deps.json
+C:\Users\karab\source\repos\PratikLinqJoin\PratikLinqJoin\bin\Debug\net8.0\PratikLinqJoin.runtimeconfig.json
+C:\Users\karab\source\repos\PratikLinqJoin\PratikLinqJoin\bin\Debug\net8.0\PratikLinqJoin.dll
+C:\Users\karab\source\repos\PratikLinqJoin\PratikLinqJoin\bin\Debug\net8.0\PratikLinqJoin.pdb
+C:\Users\karab\source\repos\PratikLinqJoin\PratikLinqJoin\obj\Debug\net8.0\PratikLinqJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karab\source\repos\PratikLinqJoin\PratikLinqJoin\obj\Debug\net8.0\PratikLinqJoin.AssemblyInfoInputs.cache
+C:\Users\karab\source\repos\PratikLinqJoin\PratikLinqJoin\obj\Debug\net8.0\PratikLinqJoin.AssemblyInfo.cs
+C:\Users\karab\source\repos\PratikLinqJoin\PratikLinqJoin\obj\Debug\net8.0\PratikLinqJoin.csproj.CoreCompileInputs.cache
+C:\Users\karab\source\repos\PratikLinqJoin\PratikLinqJoin\obj\Debug\net8.0\PratikLinqJoin.dll
+C:\Users\karab\source\repos\PratikLinqJoin\PratikLinqJoin\obj\Debug\net8.0\refint\PratikLinqJoin.dll
+C:\Users\karab\source\repos\PratikLinqJoin\PratikLinqJoin\obj\Debug\net8.0\PratikLinqJoin.pdb
+C:\Users\karab\source\repos\PratikLinqJoin\PratikLinqJoin\obj\Debug\net8.0\PratikLinqJoin.genruntimeconfig.cache
+C:\Users\karab\source\repos\PratikLinqJoin\PratikLinqJoin\obj\Debug\net8.0\ref\PratikLinqJoin.dll
